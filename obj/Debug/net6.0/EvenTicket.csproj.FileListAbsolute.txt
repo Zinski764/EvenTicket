@@ -1,0 +1,14 @@
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net6.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net6.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net6.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net6.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net6.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net6.0\ref\EvenTicket.dll

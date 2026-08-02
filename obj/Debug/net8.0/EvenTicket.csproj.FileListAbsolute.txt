@@ -1,0 +1,84 @@
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket\obj\Debug\net8.0\ref\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V2\obj\Debug\net8.0\ref\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3\obj\Debug\net8.0\ref\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + Bonus\obj\Debug\net8.0\ref\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV2\obj\Debug\net8.0\ref\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\bin\Debug\net8.0\EvenTicket.exe
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\bin\Debug\net8.0\EvenTicket.deps.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\bin\Debug\net8.0\EvenTicket.runtimeconfig.json
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\bin\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\bin\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.AssemblyInfo.cs
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\refint\EvenTicket.dll
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.pdb
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\EvenTicket.genruntimeconfig.cache
+C:\Users\gabri\Downloads\EvenTicket\EvenTicket V3 + BonusV3\obj\Debug\net8.0\ref\EvenTicket.dll

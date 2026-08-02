@@ -1,0 +1,15 @@
+﻿047.123.456-78|Ana Paula Souza|ana@email.com
+14178225979|Gabriel|gabrielduraczinski@gmail.com
+04962801988|Marcia|marciaduraczinski@gmail.com
+123456789|JoaoGamer|JoaoGamer@gmail.com
+joazinho|Gabriel|gabrielzinho
+1234567890|Luisa|luisa@gmail.com
+782221345|Joaquin|joaquin@gmail.com
+123123|Mariaa|mariazinha@gmail.com
+121212|testee|teste@gmail.com
+111.111.111-11|Joao teste|joao@gmail.com
+222.222.222-22|Maria Livia|Maria@email.com
+888.888.888-88|Joana|Joana@email.com
+999.999.999-99|Maria Eduarda|Maria@email.com
+777.777.777-77|Luisa Maria|Luisa@email.com
+084.514.739-03|Jéssica Roberta Fernandes de Oliveira|Jessica.roberta@live.com]

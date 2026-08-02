@@ -1,0 +1,8 @@
+﻿EVT001|Tech Summit 2027|Salão 03|30/07/2027|200
+Pichauu|Kaio|Salão 02|03/10/2026|1000
+Aura++|New Car|Salão 01|14/08/2026|200
+EVT000|Aniversário Maria|Salão 03|10/07/2026|50
+EVT003|Festa João|Salão 03|14/04/2027|30
+EVT005|Winter Hits 2026|Salão 06|30/06/2026|100
+EVT004|Winter Hits 2026|Salão 03|25/07/2026|100
+EVT008|Aniversário Théo|Salão 04|30/06/2026|50
